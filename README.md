@@ -31,8 +31,6 @@
 <p><img align="center" style="background-color:black;" src="https://github-readme-streak-stats.herokuapp.com/?user=roshan93190&&theme=tokyonight"alt="roshan_kumar" /></p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=najmushsaaquib&&theme=tokyonight" alt="roshan_kumar" /></p> -->
-
-<img width="100%" src="https://raw.githubusercontent.com/najmushsaaquib/najmushsaaquib/output/github-contribution-grid-snake.gif"/>
-
+ 
 <a href="https://github.com/roshan93190/github-readme-activity-graph"><img alt="Roshan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=roshan93190&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
